@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T06:47:41.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="skobgOcYutvcv9fL-jKy" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T06:59:14.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZIvI67EaqIdCrGQpWHmd" version="22.1.9" type="github">
   <diagram name="Page-1" id="FtpPWTJ-so2fhIdMMme3">
     <mxGraphModel dx="1900" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
             <mxPoint x="828" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5s5YS4WZ-XWh6R-X9pQ2-13" value="CLick Start to Play Game" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5s5YS4WZ-XWh6R-X9pQ2-12">
+        <mxCell id="5s5YS4WZ-XWh6R-X9pQ2-13" value="CLick &quot;Start&quot; button to Play Game" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5s5YS4WZ-XWh6R-X9pQ2-12">
           <mxGeometry x="-0.64" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -53,6 +53,12 @@
         </mxCell>
         <mxCell id="5s5YS4WZ-XWh6R-X9pQ2-14" value="&lt;h1&gt;Note: When user open link via browser we will redirect this link into this link (&amp;nbsp;&lt;font style=&quot;font-size: 17px;&quot;&gt;https://t.me/TOKENPLAYGames_bot/tokenplay_game )&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="400" width="520" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5s5YS4WZ-XWh6R-X9pQ2-15" value="&lt;h1&gt;Click &quot;Play Game&quot;&lt;/h1&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ff3333&quot;&gt;1/ New User: Create Account base on Telegram account. And create user&#39;s assets ( Wallets Address, User info...)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ff3333&quot;&gt;2/ Return User: check exists user if it has return user&#39;s info&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="880" width="410" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5s5YS4WZ-XWh6R-X9pQ2-16" value="Link: {{URL}}?tele-id={{telegramID}}&amp;amp;sec-key={{HashKeyToSecrect}}" style="text;html=1;strokeColor=#FF0000;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="1030" width="440" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
